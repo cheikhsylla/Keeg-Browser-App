@@ -1,0 +1,38 @@
+ENTRY       b0780             CDS       T00007
+NAME        ybhK
+DEFINITION  (RefSeq) putative CofD superfamily transferase
+ORGANISM    eco  Escherichia coli K-12 MG1655
+POSITION    complement(815739..816647)
+MOTIF       Pfam: UPF0052
+DBLINKS     NCBI-GeneID: 945390
+            NCBI-ProteinID: NP_415301
+            Pasteur: ybhK
+            RegulonDB: ECK120003002
+            ECOCYC: G6402
+            ASAP: ABE-0002661
+            UniProt: P75767
+AASEQ       302
+            MRNRTLADLDRVVALGGGHGLGRVLSSLSSLGSRLTGIVTTTDNGGSTGRIRRSEGGIAW
+            GDMRNCLNQLITEPSVASAMFEYRFGGNGELSGHNLGNLMLKALDHLSVRPLEAINLIRN
+            LLKVDTHLIPMSEHPVDLMAIDDQGHEVYGEVNIDQLTTPIQELLLTPNVPATREAVHAI
+            NEADLIIIGPGSFYTSLMPILLLKEIAQALRRTPAPMVYIGNLGRELSLPAANLKLESKL
+            AIMEQYVGKKVIDAVIVGPKVDVSAVKERIVIQEVLEASDIPYRHDRQLLHNALEKALQA
+            LG
+NTSEQ       909
+            atgcgcaatcgtacgctggctgatcttgatcgtgtcgttgctctcggcggagggcatgga
+            ctgggacgcgttctctcatcactttcgtctttgggttctcgtttaacgggtatcgtcacc
+            accaccgataatggtggctcgacggggcgtattcgccgttcagaaggcggcattgcctgg
+            ggcgatatgcgcaactgcctcaaccagctgataacggaaccgagcgtcgcctccgcgatg
+            tttgaataccgttttggtggcaatggcgaactttccggtcataatctcggaaacttgatg
+            ttaaaggcgctggatcaccttagcgtgcggcctctggaagccatcaatttaattcgtaat
+            ctgctgaaagtggatacgcatttgattccaatgtcagagcatcctgttgatctgatggcg
+            attgacgatcaggggcatgaagtttacggcgaggtcaatatcgaccagttaactacgccg
+            attcaagagttattgttaacgcctaatgtacccgcaacgcgtgaggcggttcacgctatc
+            aatgaagcggatctcatcattattgggcctggcagtttttataccagcctgatgccaatt
+            ctgctgctgaaggaaatcgcccaggcattacgccgcacgccagcgccgatggtttatatc
+            ggcaatctggggcgtgagttgagtttacctgcggctaatttgaagctggaaagcaagctg
+            gcaattatggagcagtatgttggtaaaaaggtcattgatgcggtcatcgtcgggccaaaa
+            gtggatgtctcggcggtgaaagagcggattgtgatccaggaggtactggaggccagcgat
+            attccgtatcgtcatgaccgccagttgttacataacgcgctggaaaaggcgttacaggct
+            ttaggttaa
+///

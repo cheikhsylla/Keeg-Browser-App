@@ -1,0 +1,20 @@
+ENTRY       R08572                      Reaction
+NAME        ATP:(R)-glycerate 2-phosphotransferase
+DEFINITION  D-Glycerate + ATP <=> 2-Phospho-D-glycerate + ADP
+EQUATION    C00258 + C00002 <=> C00631 + C00008
+RCLASS      RC00002  C00002_C00008
+            RC00428  C00258_C00631
+ENZYME      2.7.1.165
+PATHWAY     rn00030  Pentose phosphate pathway
+            rn00260  Glycine, serine and threonine metabolism
+            rn00561  Glycerolipid metabolism
+            rn00630  Glyoxylate and dicarboxylate metabolism
+            rn00680  Methane metabolism
+            rn01100  Metabolic pathways
+            rn01120  Microbial metabolism in diverse environments
+            rn01130  Biosynthesis of antibiotics
+            rn01200  Carbon metabolism
+MODULE      M00346  Formaldehyde assimilation, serine pathway
+ORTHOLOGY   K00865  glycerate 2-kinase [EC:2.7.1.165]
+            K11529  glycerate 2-kinase [EC:2.7.1.165]
+///

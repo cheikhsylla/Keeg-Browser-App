@@ -1,0 +1,13 @@
+ENTRY       R07771                      Reaction
+DEFINITION  Lipoyl-AMP + Apoprotein <=> Protein N6-(lipoyl)lysine + AMP
+EQUATION    C16238 + C16240 <=> C16237 + C00020
+RCLASS      RC00070  C00020_C16238
+            RC00992  C16237_C16240
+            RC02896  C16237_C16238
+ENZYME      6.3.1.20
+PATHWAY     rn00785  Lipoic acid metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K03800  lipoate---protein ligase [EC:6.3.1.20]
+            K10105  lipoyltransferase 1
+DBLINKS     RHEA: 20476
+///

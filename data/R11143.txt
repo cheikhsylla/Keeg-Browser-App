@@ -1,0 +1,13 @@
+ENTRY       R11143                      Reaction
+NAME        [lipoyl-carrier protein]-L-lysine:lipoate ligase (AMP-forming)
+DEFINITION  ATP + (R)-Lipoate + Apoprotein <=> Protein N6-(lipoyl)lysine + AMP + Diphosphate
+EQUATION    C00002 + C16241 + C16240 <=> C16237 + C00020 + C00013
+COMMENT     two-step reaction (see R07770+R07771)
+RCLASS      RC00090  C16237_C16241
+            RC00992  C16237_C16240
+ENZYME      6.3.1.20
+PATHWAY     rn00785  Lipoic acid metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K03800  lipoate---protein ligase [EC:6.3.1.20]
+DBLINKS     RHEA: 49291
+///

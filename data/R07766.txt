@@ -1,0 +1,13 @@
+ENTRY       R07766                      Reaction
+NAME        octanoyl-[acp]:protein N6-octanoyltransferase
+DEFINITION  Octanoyl-[acp] + Apoprotein <=> Protein N6-(octanoyl)lysine + Acyl-carrier protein
+EQUATION    C05752 + C16240 <=> C16236 + C00229
+RCLASS      RC00039  C00229_C05752
+            RC00992  C16236_C16240
+            RC02867  C05752_C16236
+ENZYME      2.3.1.181
+PATHWAY     rn00785  Lipoic acid metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K03801  lipoyl(octanoyl) transferase [EC:2.3.1.181]
+DBLINKS     RHEA: 17668
+///

@@ -1,0 +1,10 @@
+ENTRY       R07770                      Reaction
+DEFINITION  ATP + (R)-Lipoate <=> Diphosphate + Lipoyl-AMP
+EQUATION    C00002 + C16241 <=> C00013 + C16238
+RCLASS      RC00043  C16238_C16241
+ENZYME      6.3.1.20
+PATHWAY     rn00785  Lipoic acid metabolism
+            rn01100  Metabolic pathways
+ORTHOLOGY   K03800  lipoate---protein ligase [EC:6.3.1.20]
+DBLINKS     RHEA: 12916
+///

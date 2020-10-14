@@ -1,0 +1,37 @@
+ENTRY       b0023             CDS       T00007
+NAME        rpsT
+DEFINITION  (RefSeq) 30S ribosomal subunit protein S20
+ORTHOLOGY   K02968  small subunit ribosomal protein S20
+ORGANISM    eco  Escherichia coli K-12 MG1655
+PATHWAY     eco03010  Ribosome
+MODULE      eco_M00178  Ribosome, bacteria
+BRITE       KEGG Orthology (KO) [BR:eco00001]
+             Genetic Information Processing
+              Translation
+               03010 Ribosome
+                b0023 (rpsT)
+            Ribosome [BR:eco03011]
+             Ribosomal Proteins
+              Bacteria
+               Small subunit
+                b0023 (rpsT)
+POSITION    complement(20815..21078)
+MOTIF       Pfam: Ribosomal_S20p
+DBLINKS     NCBI-GeneID: 944759
+            NCBI-ProteinID: NP_414564
+            Pasteur: rpsT
+            RegulonDB: ECK120000910
+            ECOCYC: EG10919
+            ASAP: ABE-0000082
+            UniProt: P0A7U7
+STRUCTURE   PDB: 5NO2 5NO3 5NO4 5UZ4 5MY1 2YKR 5ME0 5ME1 4ADV 4A2I
+AASEQ       87
+            MANIKSAKKRAIQSEKARKHNASRRSMMRTFIKKVYAAIEAGDKAAAQKAFNEMQPIVDR
+            QAAKGLIHKNKAARHKANLTAQINKLA
+NTSEQ       264
+            ttggctaatatcaaatcagctaagaagcgcgccattcagtctgaaaaggctcgtaagcac
+            aacgcaagccgtcgctctatgatgcgtactttcatcaagaaagtatacgcagctatcgaa
+            gctggcgacaaagctgctgcacagaaagcatttaacgaaatgcaaccgatcgtggaccgt
+            caggctgctaaaggtctgatccacaaaaacaaagctgcacgtcataaggctaacctgact
+            gcacagatcaacaaactggcttaa
+///
